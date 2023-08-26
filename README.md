@@ -1,5 +1,4 @@
-# Human Activity Recognition using Deep Learning and Pose Estimation
-
+# Human Activity Recognition using Deep Learning 
 
 This Python code demonstrates human activity recognition using a pre-trained model and MediaPipe for pose estimation. It reads a video input or a live web-cam feed, captures frames, and predicts the activity in the captured frames using a deep neural network.
 
